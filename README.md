@@ -1,4 +1,4 @@
-# native-android-CrissCross
+# Getting Started
 => An interactive tic-tac-toe gaming application for android.
 
 -----------------------------------------------------------------------------------------
